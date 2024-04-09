@@ -1,6 +1,4 @@
-Claro, aquí tienes una descripción más detallada:
-
-Se requiere desarrollar una interfaz de usuario con las siguientes características:
+Se desarrolla una interfaz de usuario con las siguientes características:
 
 1. **Login**: La interfaz debe incluir un formulario de inicio de sesión donde los usuarios puedan ingresar sus credenciales (por ejemplo, nombre de usuario y contraseña) para acceder a la funcionalidad principal.
 
